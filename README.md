@@ -16,7 +16,7 @@ Asegúrate de tener instalado Python 3.7 o superior. Las siguientes bibliotecas 
 1. Clona el repositorio en tu máquina local:
 
     ```sh
-    git clone <URL_del_repositorio>
+    git clone https://github.com/ReplacedSpace17/Estimacion_densidad_celular
     cd Estimacion_densidad_celular/Api
     ```
 
